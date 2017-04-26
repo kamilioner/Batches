@@ -1,0 +1,3 @@
+echo "test"
+ok
+right
